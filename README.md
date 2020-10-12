@@ -73,14 +73,14 @@ Essas são as tecnologias que foram utilizadas até o momento.
 
 ```bash
 # Clone Repository
-$ git clone https://github.com/leandrocodes/Happy.git
+$ git clone https://github.com/leandrocodes/happy-nlw.git
 ```
 
 ### 💻 Executando o projeto Web
 
 ```bash
 # Navegue até a pasta web
-$ cd Happy/web
+$ cd happy-nlw/web
 
 # Instale as dependências
 $ yarn install
