@@ -7,6 +7,10 @@
   display: flex;
 }
 
+#page-map .leaflet-container {
+  z-index: 0;
+}
+
 #page-map aside {
   width: 440px;
   padding: 80px;
@@ -58,6 +62,8 @@
   align-items: center;
 
   transition: background-color 150ms ease;
+
+  z-index: 10;
 }
 
 #page-map .create-orphanage:hover {
