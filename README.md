@@ -2,9 +2,16 @@
   <img src="https://github.com/leandrocodes/happy-nlw/blob/main/.github/images/Happy.svg" alt="Happy">
 </h3>
 
-<p align="center">
-  <a href="https://rocketseat.com.br">
-    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-7519C1">
+<p align="center">	
+   <a href="https://www.linkedin.com/in/leandro-viana-45a1a9168/">
+      <img alt="Douglas Souza dos Anjos" src="https://img.shields.io/badge/-Leandro Viana-19bccd?style=flat&logo=Linkedin&logoColor=white" />
+   </a>
+  <a aria-label="Completed" href="https://nextlevelweek.com/episodios/omnistack/edicao/3">
+    <img src="https://img.shields.io/badge/Happy-NLW 3.0-19bccd?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg=="></img>
+  </a>
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-19bccd">
+  <a href="https://github.com/douglasdsda/happy/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/douglasdsda/happy?color=19bccd&logo=github">
   </a>
 </p>
 
