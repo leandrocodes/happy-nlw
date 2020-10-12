@@ -1,5 +1,5 @@
 <h3 align="center">
-  <img src="https://github.com/leandrocodes/Happy/blob/main/.github/images/Happy.svg" alt="Happy">
+  <img src="https://github.com/leandrocodes/happy-nlw/blob/main/.github/images/Happy.svg" alt="Happy">
 </h3>
 
 <p align="center">
@@ -52,8 +52,8 @@ Essas são as tecnologias que foram utilizadas até o momento.
 ## :computer: Web Screenshots
 
 <div width="" style="display: flex; align-items: 'center'; justify-content: space-evenly">
-  <img src="https://github.com/leandrocodes/Happy/blob/main/.github/images/landing.png" width="400px">
-  <img src="https://github.com/leandrocodes/Happy/blob/main/.github/images/map.png"  width="400px">
+  <img src="https://github.com/leandrocodes/happy-nlw/blob/main/.github/images/landing.png" width="400px">
+  <img src="https://github.com/leandrocodes/happy-nlw/blob/main/.github/images/map.png"  width="400px">
 </div>
 
 <br/>
