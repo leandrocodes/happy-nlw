@@ -37,5 +37,15 @@ export default {
     const orphanages = await orphanagesRepository.find()
 
     return res.json(orphanages)
+  },
+
+  async show(req: Request, res: Response) {
+    const { id } = req.params
+
+    const orphanagesRepository = getRepository(Orphanage)
+
+    const orphanage = await orphanagesRepository.findOneOrFail()
+
+    return res.json(orphanage)
   }
 }
