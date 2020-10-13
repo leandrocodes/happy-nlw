@@ -59,7 +59,7 @@ Essas são as tecnologias que foram utilizadas até o momento.
 ## :computer: Web Screenshots
 
 <div width="" style="display: flex; align-items: 'center'; justify-content: space-evenly">
-  <img src="https://github.com/leandrocodes/happy-nlw/blob/main/.github/images/Home.png" width="400px">
+  <img src="https://github.com/leandrocodes/happy-nlw/blob/main/.github/images/landing.png" width="400px">
   <img src="https://github.com/leandrocodes/happy-nlw/blob/main/.github/images/map.png"  width="400px">
 </div>
 
