@@ -50,16 +50,16 @@ Essas são as tecnologias que foram utilizadas até o momento.
 
 > Em Desenvolvimento
 
-  <!-- - [NodeJS](https://nodejs.org/en/)
-  - [Express](https://expressjs.com/pt-br/)
-  - [Typescript](https://classic.yarnpkg.com/)
-  - [KnexJS](http://knexjs.org/)
-  - [SQLite](https://www.sqlite.org/index.html) -->
+- [NodeJS](https://nodejs.org/en/)
+- [Express](https://expressjs.com/pt-br/)
+- [Typescript](https://www.typescriptlang.org/)
+- [TypeORM](https://typeorm.io/)
+- [SQLite](https://www.sqlite.org/index.html)
 
 ## :computer: Web Screenshots
 
 <div width="" style="display: flex; align-items: 'center'; justify-content: space-evenly">
-  <img src="https://github.com/leandrocodes/happy-nlw/blob/main/.github/images/landing.png" width="400px">
+  <img src="https://github.com/leandrocodes/happy-nlw/blob/main/.github/images/Home.png" width="400px">
   <img src="https://github.com/leandrocodes/happy-nlw/blob/main/.github/images/map.png"  width="400px">
 </div>
 
