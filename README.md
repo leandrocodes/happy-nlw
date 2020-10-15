@@ -88,3 +88,16 @@ $ yarn start
 ```
 
 Navegue http://localhost:3000/ no seu navegador para ver os resultados.
+
+### 💻 Executando o backend
+
+```bash
+# Navegue até a pasta backend
+$ cd happy-nlw/backend
+
+# Instale as dependências
+$ yarn install
+
+# Execute em modo de desenvolvimento
+$ yarn dev
+```
