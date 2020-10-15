@@ -61,11 +61,11 @@ Essas são as tecnologias que foram utilizadas até o momento.
 <div width="" style="display: flex; align-items: 'center'; justify-content: space-evenly">
   <img src="https://github.com/leandrocodes/happy-nlw/blob/main/.github/images/landing.png" width="400px">
   <img src="https://github.com/leandrocodes/happy-nlw/blob/main/.github/images/map.png"  width="400px">
+  <img src="https://github.com/leandrocodes/happy-nlw/blob/main/.github/images/create-orphanage.png" width="400px">
+  <img src="https://github.com/leandrocodes/happy-nlw/blob/main/.github/images/orphanage.png"  width="400px">
 </div>
 
 <br/>
-
-> Até o momento, somente essas duas páginas foram desenvolvidas durante o evento
 
 <br/>
 
