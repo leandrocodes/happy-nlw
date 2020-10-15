@@ -48,8 +48,6 @@ Essas são as tecnologias que foram utilizadas até o momento.
 
 ### Back-End
 
-> Em Desenvolvimento
-
 - [NodeJS](https://nodejs.org/en/)
 - [Express](https://expressjs.com/pt-br/)
 - [Typescript](https://www.typescriptlang.org/)
